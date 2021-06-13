@@ -29,5 +29,6 @@ Supported queries' formats:
 13. How many movies are of length <duration>?
 
 # How to use film_qa:
-Creating an Ontology - python3 film_qa.py create
+Creating an Ontology - python3 film_qa.py create 
+  
 Querying the Ontology - python3 film_qa.py question <"your question">
