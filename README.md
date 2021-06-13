@@ -1,6 +1,6 @@
 # Film_qa
-Creats an Ontology based on winning Oscar films (since 2010) from Wikipedia, 
-And allows querying it.
+Creats an Ontology based on winning Oscar films (since 2010) from Wikipedia using XPath, 
+And allows querying it using SPARQL.
 
 The crawler collects the following details on each film:
 1. Release dates
